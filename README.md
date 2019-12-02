@@ -12,4 +12,9 @@ An example of http request with chaos-header can be:
       where likelihood is % number of requests that should do chaos.
 
 
- 
+# Install: 
+  > npm install package.json
+
+# Run: 
+  > node index.js
+    
